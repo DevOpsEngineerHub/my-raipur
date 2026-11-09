@@ -1,0 +1,29 @@
+{
+  "_help": "Set lastChecked to a date like 2026-11-08 after you have verified every number and link. Until then the page shows a 'review pending' note.",
+  "lastChecked": null,
+  "emergency": [
+    { "label": "All-in-one emergency", "number": "112", "note": "Police, fire and ambulance" },
+    { "label": "Police", "number": "100" },
+    { "label": "Fire", "number": "101" },
+    { "label": "Ambulance", "number": "102" },
+    { "label": "Emergency ambulance", "number": "108" },
+    { "label": "Medical helpline", "number": "104" },
+    { "label": "Child helpline", "number": "1098" },
+    { "label": "Women helpline", "number": "181" },
+    { "label": "Cyber crime helpline", "number": "1930" }
+  ],
+  "power": [
+    { "label": "CSPDCL power outage helpline", "number": "1912", "note": "Chhattisgarh State Power Distribution Company" },
+    { "label": "CSPDCL customer care", "number": "18002334687", "display": "1800-233-4687", "note": "For complaints and customer service" }
+  ],
+  "portals": [
+    { "label": "Raipur district website", "url": "https://raipur.gov.in", "note": "Official district site with history, places and notices" },
+    { "label": "Chhattisgarh government portal", "url": "https://cgstate.gov.in", "note": "State government services and notices" },
+    { "label": "Chhattisgarh Public Service Commission", "url": "https://psc.cg.gov.in", "note": "State recruitment exams and results" },
+    { "label": "DigiLocker", "url": "https://www.digilocker.gov.in", "note": "Store and share official documents" }
+  ],
+  "transport": [
+    { "label": "Train tickets and PNR status", "url": "https://www.irctc.co.in", "note": "IRCTC, for trains from Raipur" },
+    { "label": "Swami Vivekananda Airport, Raipur", "note": "Check flight status on each airline's website" }
+  ]
+}

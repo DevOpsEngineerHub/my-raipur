@@ -1,0 +1,11 @@
+{
+  "_help": "Face of the Month: one profile a month. Always get the person's consent before publishing their photo and interview. current needs month, name, role, bio, optional image and interviewUrl. Move last month's profile into archive.",
+  "current": {
+    "month": "November 2026",
+    "name": "Sample profile",
+    "role": "Entrepreneur, artist, teacher, sportsperson or young achiever",
+    "bio": "Each month My Raipur will feature one inspiring person from the city, with a photograph, a short biography and an interview. This is a placeholder.",
+    "sample": true
+  },
+  "archive": []
+}

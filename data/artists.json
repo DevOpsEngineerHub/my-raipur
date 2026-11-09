@@ -1,0 +1,10 @@
+{
+  "_help": "Each artist: name, craft (Painting, Poetry, Music, Photography, Other), bio, url (optional link to their work), image (optional). Get the artist's permission before publishing their work.",
+  "crafts": ["Painting", "Poetry", "Music", "Photography"],
+  "items": [
+    { "name": "Sample artist", "craft": "Painting", "bio": "A short line about the artist and the kind of work they do.", "sample": true },
+    { "name": "Sample poet", "craft": "Poetry", "bio": "Poems and spoken-word pieces by local writers will appear here.", "sample": true },
+    { "name": "Sample musician", "craft": "Music", "bio": "Singing and performance clips from Raipur's musicians.", "sample": true },
+    { "name": "Sample photographer", "craft": "Photography", "bio": "Local photography and creative projects.", "sample": true }
+  ]
+}

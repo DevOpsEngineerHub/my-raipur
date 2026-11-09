@@ -1,0 +1,202 @@
+[
+  {
+    "id": "cafes",
+    "hub": "explore",
+    "pillar": "discover",
+    "icon": "coffee",
+    "title": "Top cafes",
+    "path": "/explore/cafes/",
+    "lead": "Coffee shops and cafes worth a visit, with area, price range and a map link.",
+    "emptyTitle": "Cafe listings are on the way",
+    "emptyText": "We list a cafe only after checking its address and timings. Know a good one? Send it in and we will verify it."
+  },
+  {
+    "id": "street-food",
+    "hub": "explore",
+    "pillar": "discover",
+    "icon": "food",
+    "title": "Street-side food",
+    "path": "/explore/street-food/",
+    "lead": "Local dishes to look for, and the stalls and food streets worth a detour.",
+    "emptyTitle": "Street food listings are on the way",
+    "emptyText": "Know a stall that locals swear by? Tell us the name and area and we will check it."
+  },
+  {
+    "id": "shopping",
+    "hub": "explore",
+    "pillar": "discover",
+    "icon": "bag",
+    "title": "Shopping corner",
+    "path": "/explore/shopping/",
+    "lead": "Markets, shopping streets, stores and local brands.",
+    "emptyTitle": "Shopping listings are on the way",
+    "emptyText": "Tell us about a market or a local brand that deserves a place here."
+  },
+  {
+    "id": "doctors",
+    "hub": "healthcare",
+    "pillar": "discover",
+    "icon": "health",
+    "title": "Top doctors",
+    "path": "/healthcare/doctors/",
+    "lead": "Doctors organised by specialisation. Every profile is verified before it goes live.",
+    "emptyTitle": "Doctor listings open soon",
+    "emptyText": "Doctors and clinics are listed only after verification of registration and contact details. If you run a clinic, send your details and we will get in touch.",
+    "specialties": [
+      "Cardiology",
+      "Dermatology",
+      "Dentistry",
+      "Orthopaedics",
+      "Paediatrics",
+      "General medicine",
+      "Gynaecology"
+    ]
+  },
+  {
+    "id": "hospitals",
+    "hub": "healthcare",
+    "pillar": "discover",
+    "icon": "building",
+    "title": "Hospitals",
+    "path": "/healthcare/hospitals/",
+    "lead": "Major hospitals in and around Raipur.",
+    "emptyTitle": "Hospital listings are on the way",
+    "emptyText": "Send us a hospital to add."
+  },
+  {
+    "id": "schools",
+    "hub": "education",
+    "pillar": "discover",
+    "icon": "cap",
+    "title": "Top schools",
+    "path": "/education/schools/",
+    "lead": "School profiles with courses, facilities, admission information and contact details.",
+    "emptyTitle": "School listings are on the way",
+    "emptyText": "School administrators can send their details for review."
+  },
+  {
+    "id": "colleges",
+    "hub": "education",
+    "pillar": "discover",
+    "icon": "cap",
+    "title": "Colleges and universities",
+    "path": "/education/colleges/",
+    "lead": "Institutes and universities in Raipur and Naya Raipur.",
+    "emptyTitle": "College listings are on the way",
+    "emptyText": "Send us a college to add."
+  },
+  {
+    "id": "training",
+    "hub": "education",
+    "pillar": "discover",
+    "icon": "book",
+    "title": "Training institutes",
+    "path": "/education/training/",
+    "lead": "IT training, coaching centres and professional learning institutes.",
+    "emptyTitle": "Training institute listings are on the way",
+    "emptyText": "Run an institute? Send your details and we will add it after a quick check."
+  },
+  {
+    "id": "places",
+    "hub": "explore",
+    "pillar": "experience",
+    "icon": "pin",
+    "title": "Things to explore",
+    "path": "/explore/places/",
+    "lead": "Lakes, gardens, museums, temples and historic places in and around the city.",
+    "emptyTitle": "Places are on the way",
+    "emptyText": "Tell us about a place worth visiting."
+  },
+  {
+    "id": "day-trips",
+    "hub": "explore",
+    "pillar": "experience",
+    "icon": "route",
+    "title": "Day trips",
+    "path": "/explore/day-trips/",
+    "lead": "Weekend destinations and one-day trips from Raipur.",
+    "emptyTitle": "Day trips are on the way",
+    "emptyText": "Tell us about a trip worth taking."
+  },
+  {
+    "id": "events",
+    "pillar": "experience",
+    "icon": "calendar",
+    "custom": true,
+    "title": "Events",
+    "path": "/events/",
+    "lead": "Concerts, shows, fests, workshops and community events."
+  },
+  {
+    "id": "this-week",
+    "pillar": "experience",
+    "icon": "sparkle",
+    "custom": true,
+    "title": "Things to do this week",
+    "path": "/this-week/",
+    "lead": "Quick picks for the next few days."
+  },
+  {
+    "id": "artistic",
+    "pillar": "connect",
+    "icon": "palette",
+    "custom": true,
+    "title": "Artistic corner",
+    "path": "/artistic-corner/",
+    "lead": "Painters, poets, musicians and photographers from Raipur."
+  },
+  {
+    "id": "faces",
+    "pillar": "connect",
+    "icon": "camera",
+    "custom": true,
+    "title": "Face of the month",
+    "path": "/faces/",
+    "lead": "One inspiring person from the city, every month."
+  },
+  {
+    "id": "news",
+    "pillar": "connect",
+    "icon": "news",
+    "custom": true,
+    "title": "News gallery",
+    "path": "/news/",
+    "lead": "Headlines from Raipur and across Chhattisgarh."
+  },
+  {
+    "id": "information",
+    "pillar": "connect",
+    "icon": "info",
+    "custom": true,
+    "title": "Information corner",
+    "path": "/information/",
+    "lead": "Emergency numbers, services and official websites."
+  },
+  {
+    "id": "old-raipur",
+    "pillar": "connect",
+    "icon": "image",
+    "custom": true,
+    "title": "Old Raipur gallery",
+    "path": "/old-raipur/",
+    "lead": "Photographs and memories of the city in earlier decades."
+  },
+  {
+    "id": "about-raipur",
+    "pillar": "connect",
+    "icon": "map",
+    "custom": true,
+    "title": "About Raipur",
+    "path": "/about-raipur/",
+    "lead": "History, culture and landmarks."
+  },
+  {
+    "id": "facts",
+    "pillar": "connect",
+    "icon": "bulb",
+    "custom": true,
+    "title": "Raipur facts",
+    "path": "/raipur-facts/",
+    "lead": "Short, sourced facts about the city."
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "_help": "Quick picks for the coming days. Different from the events calendar: these are recommendations (a new cafe, an exhibition, a nearby outing). Update every few days.",
+  "weekOf": "2026-11-09",
+  "items": [
+    { "title": "Sample pick: a newly opened cafe to try", "note": "One or two lines on why it is worth going this week.", "kind": "Food", "sample": true },
+    { "title": "Sample pick: a photography exhibition", "note": "Dates, venue and entry details go here.", "kind": "Art", "sample": true },
+    { "title": "Sample pick: a Sunday outing near the city", "note": "A nearby place that suits the season.", "kind": "Outing", "sample": true }
+  ]
+}

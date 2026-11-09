@@ -1,0 +1,15 @@
+{
+  "name": "my-raipur",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "My Raipur - a mobile-first city portal for Raipur, built as a static site for Cloudflare Pages",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node dev.mjs",
+    "preview": "node dev.mjs --no-watch"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

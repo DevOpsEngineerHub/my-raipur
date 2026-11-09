@@ -1,0 +1,51 @@
+{
+  "name": "My Raipur",
+  "tagline": "Discover. Explore. Experience Raipur.",
+  "taglineAlt": "Your City. Your Community.",
+  "description": "My Raipur is a digital home for Raipur: places, food, doctors, schools, events, news and local talent in one place.",
+  "url": "https://myraipur.com",
+  "showSampleContent": true,
+  "contact": {
+    "email": "hello@myraipur.com",
+    "whatsapp": "",
+    "instagram": ""
+  },
+  "pillars": [
+    {
+      "id": "discover",
+      "title": "Discover Raipur",
+      "purpose": "Find useful places, services and businesses."
+    },
+    {
+      "id": "experience",
+      "title": "Experience Raipur",
+      "purpose": "Explore the city and take part in what is happening."
+    },
+    {
+      "id": "connect",
+      "title": "Connect with Raipur",
+      "purpose": "People, creativity, news and public information."
+    }
+  ],
+  "cities": [
+    "Raipur",
+    "Bilaspur",
+    "Durg",
+    "Bhilai",
+    "Korba",
+    "Jagdalpur",
+    "Other"
+  ],
+  "topics": [
+    "Civic",
+    "Education",
+    "Jobs",
+    "Business",
+    "Government",
+    "Infrastructure",
+    "Sports",
+    "Culture",
+    "Technology",
+    "Health"
+  ]
+}

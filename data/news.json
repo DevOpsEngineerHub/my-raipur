@@ -1,0 +1,37 @@
+{
+  "_help": "Update this file each morning and evening. edition is 'morning' or 'evening'. updated is an ISO time with +05:30. Each item: title, source (publisher name), url (original article), city, topic, summary (one line in your own words). Do not copy articles or images; link to the original. Remove the 'sample' flags when you add real stories.",
+  "edition": "morning",
+  "updated": "2026-11-08T06:30:00+05:30",
+  "items": [
+    {
+      "title": "Sample headline: water supply maintenance notice for several city wards",
+      "source": "Sample source", "url": "#", "city": "Raipur", "topic": "Civic",
+      "summary": "A short one-line summary in your own words goes here.", "sample": true
+    },
+    {
+      "title": "Sample headline: board exam schedule announced for the new session",
+      "source": "Sample source", "url": "#", "city": "Raipur", "topic": "Education",
+      "summary": "Summaries stay short and always link back to the original report.", "sample": true
+    },
+    {
+      "title": "Sample headline: recruitment notification released for state posts",
+      "source": "Sample source", "url": "#", "city": "Raipur", "topic": "Jobs",
+      "summary": "Jobs and recruitment stories bring readers back every day.", "sample": true
+    },
+    {
+      "title": "Sample headline: new flyover section opens for traffic",
+      "source": "Sample source", "url": "#", "city": "Durg", "topic": "Infrastructure",
+      "summary": "Stories from other cities appear under their own city filter.", "sample": true
+    },
+    {
+      "title": "Sample headline: district sports meet begins this weekend",
+      "source": "Sample source", "url": "#", "city": "Bilaspur", "topic": "Sports",
+      "summary": "Local sports results and meets.", "sample": true
+    },
+    {
+      "title": "Sample headline: startup meetup planned in the capital region",
+      "source": "Sample source", "url": "#", "city": "Raipur", "topic": "Business",
+      "summary": "Business and development stories.", "sample": true
+    }
+  ]
+}

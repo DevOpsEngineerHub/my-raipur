@@ -1,0 +1,45 @@
+{
+  "_help": [
+    "Every ad space on the site is a named slot below. Space is always reserved, so pages do not jump when an ad loads.",
+    "A slot shows, in this order: (1) a matching campaign, (2) a Google AdSense unit if adsense.enabled and the slot has an adsenseSlot id, (3) a house placeholder inviting advertisers (turn off with houseAds: false; the space stays reserved).",
+    "size: leaderboard = 728x90 on desktop and 320x100 on phones. rectangle = 300x250. anchor = 320x50 (sticky bar at the bottom of phones).",
+    "To sell a space: add an entry to campaigns with the slot ids it should appear in, then run the build. Campaigns outside start/end dates are skipped at build time, so redeploy daily (Cloudflare Pages deploy hook) if you run dated campaigns.",
+    "type 'image' needs image (and optionally imageMobile). type 'text' needs title, text, cta. type 'html' takes your own markup.",
+    "category 'political' adds a visible Political advertisement label with a Paid for by line. Check the rules that apply to election advertising before you sell these."
+  ],
+  "showSizeHints": true,
+  "houseAds": true,
+  "adsense": {
+    "enabled": false,
+    "client": "ca-pub-0000000000000000"
+  },
+  "sticky": {
+    "enabled": false
+  },
+  "slots": {
+    "home-top": { "size": "leaderboard", "adsenseSlot": "" },
+    "home-mid": { "size": "rectangle", "adsenseSlot": "" },
+    "home-lower": { "size": "leaderboard", "adsenseSlot": "" },
+    "list-top": { "size": "leaderboard", "adsenseSlot": "" },
+    "list-inline": { "size": "rectangle", "adsenseSlot": "" },
+    "list-bottom": { "size": "leaderboard", "adsenseSlot": "" },
+    "article-mid": { "size": "rectangle", "adsenseSlot": "" },
+    "sidebar": { "size": "rectangle", "desktopOnly": true, "adsenseSlot": "" },
+    "sticky-bottom": { "size": "anchor", "adsenseSlot": "" }
+  },
+  "campaigns": [
+    {
+      "id": "example-disabled",
+      "enabled": false,
+      "slots": ["home-mid", "list-inline"],
+      "type": "image",
+      "image": "/assets/ads/example-300x250.png",
+      "href": "https://example.com",
+      "alt": "Example advertiser",
+      "sponsor": "Example advertiser",
+      "category": "business",
+      "start": "2026-12-01",
+      "end": "2026-12-31"
+    }
+  ]
+}

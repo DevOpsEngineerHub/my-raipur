@@ -1,0 +1,10 @@
+{
+  "_help": "Each event: title, date (YYYY-MM-DD), time, venue, organiser, category (Music, Comedy, College, Business, Food, Sports, Community, Workshop, Exhibition), url (tickets or registration, optional). Past events move to the 'Past' list automatically on the next build.",
+  "categories": ["Music", "Comedy", "College", "Business", "Food", "Sports", "Community", "Workshop", "Exhibition"],
+  "items": [
+    { "title": "Sample event: Weekend music night", "date": "2026-11-14", "time": "7:00 pm", "venue": "Venue name", "organiser": "Organiser name", "category": "Music", "url": "", "sample": true },
+    { "title": "Sample event: College cultural fest", "date": "2026-11-21", "time": "10:00 am", "venue": "Campus name", "organiser": "Student council", "category": "College", "url": "", "sample": true },
+    { "title": "Sample event: Food festival", "date": "2026-11-28", "time": "5:00 pm", "venue": "Ground name", "organiser": "Organiser name", "category": "Food", "url": "", "sample": true },
+    { "title": "Sample event: Startup and business meetup", "date": "2026-12-05", "time": "4:00 pm", "venue": "Venue name", "organiser": "Organiser name", "category": "Business", "url": "", "sample": true }
+  ]
+}

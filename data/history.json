@@ -1,0 +1,17 @@
+{
+  "_help": "Timeline for the About Raipur page. Facts paraphrased from the Raipur district website history page. Add sources for anything you add.",
+  "source": "Raipur district website",
+  "sourceUrl": "https://raipur.gov.in/history/",
+  "items": [
+    { "when": "Early history", "what": "The region was part of Southern Kosal, and is reported to have been under the Mauryan kingdom." },
+    { "when": "2nd to 3rd century", "what": "Satavahana rule." },
+    { "when": "4th century", "what": "Samudragupta conquered the region." },
+    { "when": "5th to 6th century", "what": "The Sarabhpuriya and Nala kings held the area in turn." },
+    { "when": "Somavanshi era", "what": "The dynasty ruled from Sirpur. Its most powerful emperor was Mahashivgupt Balarjun, and the widowed queen Vasata built the brick Lakshman temple." },
+    { "when": "Kalchuri era", "what": "The Kalchuris ruled from Ratanpur for a long period. Accounts differ on who founded Raipur: one credits King Ramachandra, the other his son Brahmdeo Rai, who is said to have named the city after himself." },
+    { "when": "1402", "what": "The Hatkeshwar Mahadev temple on the Kharun river was built in Brahmdeo Rai's time." },
+    { "when": "Bhosle rule", "what": "After the last Kalchuri ruler, Amarsingh Deo, died, the region passed to the Bhosle kings." },
+    { "when": "1854", "what": "After the death of Raghuji III, the British took the territory from the Bhonsla of Nagpur and made Chhattisgarh a separate commissionery with its headquarters at Raipur." },
+    { "when": "2000", "what": "Chhattisgarh became a separate state on 1 November 2000, with Raipur as its capital.", "needsSource": true }
+  ]
+}

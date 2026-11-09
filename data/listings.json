@@ -1,0 +1,453 @@
+[
+  {
+    "_help": "Fields: id, category (matches data/categories.json), name, nameHi, area, kind, summary, tags[], url, map (text for the map search), image, sponsored, verified (true hides the 'Details being verified' label), sample (true = placeholder, removed when SHOW_SAMPLES=0), source, sourceUrl.",
+    "id": "_help",
+    "category": "_help",
+    "name": "_help",
+    "sample": true,
+    "hidden": true
+  },
+  {
+    "id": "vivekananda-sarovar",
+    "category": "places",
+    "verified": true,
+    "name": "Vivekananda Sarovar (Budha Talaab)",
+    "area": "Raipur city",
+    "kind": "Lake",
+    "summary": "The city's oldest lake, with an island garden and a 37 ft statue of Swami Vivekananda.",
+    "tags": [
+      "lake",
+      "garden",
+      "family"
+    ],
+    "source": "Raipur district website",
+    "sourceUrl": "https://raipur.gov.in/places-to-visit/"
+  },
+  {
+    "id": "mahant-ghasidas-museum",
+    "category": "places",
+    "verified": true,
+    "name": "Mahant Ghasidas Memorial Museum",
+    "area": "J.E. Road",
+    "kind": "Museum",
+    "summary": "Idols, ancient inscriptions, rare coins and archaeological finds from the region, opposite the Collectorate office.",
+    "tags": [
+      "museum",
+      "history",
+      "family"
+    ],
+    "source": "Raipur district website",
+    "sourceUrl": "https://raipur.gov.in/places-to-visit/"
+  },
+  {
+    "id": "nandanvan-jungle-safari",
+    "category": "places",
+    "verified": true,
+    "name": "Nandanvan Jungle Safari",
+    "area": "Naya Raipur",
+    "kind": "Safari park",
+    "summary": "A large safari park in Sector 39 with herbivore, bear, tiger and lion zones, beside the Khandwa reservoir.",
+    "tags": [
+      "wildlife",
+      "family",
+      "full day"
+    ],
+    "source": "Raipur district website",
+    "sourceUrl": "https://raipur.gov.in/places-to-visit/"
+  },
+  {
+    "id": "purkhauti-muktangan",
+    "category": "places",
+    "verified": false,
+    "name": "Purkhauti Muktangan",
+    "area": "Naya Raipur",
+    "kind": "Cultural park",
+    "summary": "A garden with life-like tribal figures and folk-art displays that introduce Chhattisgarh's culture.",
+    "tags": [
+      "culture",
+      "tribal art",
+      "family"
+    ],
+    "source": "Raipur district website",
+    "sourceUrl": "https://raipur.gov.in/places-to-visit/"
+  },
+  {
+    "id": "dudhadhari-temple",
+    "category": "places",
+    "verified": true,
+    "name": "Dudhadhari Temple",
+    "area": "Raipur city",
+    "kind": "Temple",
+    "summary": "A 17th-century Vaishnav temple known for sculptures that tell scenes from the Ramayana.",
+    "tags": [
+      "temple",
+      "heritage"
+    ],
+    "source": "Raipur district website",
+    "sourceUrl": "https://raipur.gov.in/places-to-visit/"
+  },
+  {
+    "id": "hatkeshwar-mahadev",
+    "category": "places",
+    "verified": true,
+    "name": "Hatkeshwar Mahadev Temple",
+    "area": "Kharun river bank",
+    "kind": "Temple",
+    "summary": "A Shiva temple on the Kharun river, about 5 km from the city, built in 1402 in the Kalchuri period.",
+    "tags": [
+      "temple",
+      "heritage",
+      "river"
+    ],
+    "source": "Raipur district website",
+    "sourceUrl": "https://raipur.gov.in/places-to-visit/"
+  },
+  {
+    "id": "kankali-talab",
+    "category": "places",
+    "verified": true,
+    "name": "Kankali Talab",
+    "area": "Raipur city",
+    "kind": "Pond and temple",
+    "summary": "A pond with a Shiva temple at its centre, a large banyan tree and the samadhis of sages.",
+    "tags": [
+      "temple",
+      "heritage"
+    ],
+    "source": "Raipur district website",
+    "sourceUrl": "https://raipur.gov.in/places-to-visit/"
+  },
+  {
+    "id": "town-hall",
+    "category": "places",
+    "verified": true,
+    "name": "Town Hall (Victoria Jubilee Hall)",
+    "area": "Shastri Chowk",
+    "kind": "Heritage building",
+    "summary": "A historic hall built between 1887 and 1889, near Shastri Chowk and the Collectorate.",
+    "tags": [
+      "heritage",
+      "architecture"
+    ],
+    "source": "Raipur district website",
+    "sourceUrl": "https://raipur.gov.in/places-to-visit/"
+  },
+  {
+    "id": "solar-energy-park",
+    "category": "places",
+    "verified": true,
+    "name": "Solar Energy Park",
+    "area": "Airport Road",
+    "kind": "Science park",
+    "summary": "An energy-education park about 7 km from the city, with exhibits, working models and solar-powered cars and boats.",
+    "tags": [
+      "kids",
+      "science",
+      "family"
+    ],
+    "source": "Raipur district website",
+    "sourceUrl": "https://raipur.gov.in/places-to-visit/"
+  },
+  {
+    "id": "nagar-ghadi",
+    "category": "places",
+    "verified": true,
+    "name": "Nagar Ghadi (Ghadi Chowk)",
+    "area": "Ghadi Chowk",
+    "kind": "Landmark",
+    "summary": "The renovated clock pillar near Shastri Chowk, a landmark of the old city.",
+    "tags": [
+      "landmark",
+      "heritage"
+    ],
+    "source": "Raipur district website",
+    "sourceUrl": "https://raipur.gov.in/places-to-visit/"
+  },
+  {
+    "id": "sirpur",
+    "category": "day-trips",
+    "verified": false,
+    "name": "Sirpur",
+    "area": "Outside Raipur",
+    "kind": "Day trip",
+    "summary": "Ancient capital of the Somavanshi dynasty, known for the brick Lakshman temple that Queen Vasata built.",
+    "tags": [
+      "history",
+      "temples",
+      "archaeology"
+    ],
+    "source": "Raipur district website",
+    "sourceUrl": "https://raipur.gov.in/history/"
+  },
+  {
+    "id": "rajim",
+    "category": "day-trips",
+    "verified": false,
+    "name": "Rajim",
+    "area": "Outside Raipur",
+    "kind": "Day trip",
+    "summary": "A temple town at a river confluence, often called the Prayag of Chhattisgarh. Travel time and best season to be added.",
+    "tags": [
+      "temples",
+      "river"
+    ]
+  },
+  {
+    "id": "barnawapara",
+    "category": "day-trips",
+    "verified": false,
+    "name": "Barnawapara Wildlife Sanctuary",
+    "area": "Outside Raipur",
+    "kind": "Day trip",
+    "summary": "A forest sanctuary for a day or weekend of wildlife spotting. Entry rules, timings and safari details to be added.",
+    "tags": [
+      "wildlife",
+      "nature"
+    ]
+  },
+  {
+    "id": "gol-bazaar",
+    "category": "shopping",
+    "verified": false,
+    "name": "Gol Bazaar",
+    "area": "Central Raipur",
+    "kind": "Market area",
+    "summary": "A well-known central market area. We are collecting what to buy here and the best time to go.",
+    "tags": [
+      "market"
+    ]
+  },
+  {
+    "id": "sadar-bazaar",
+    "category": "shopping",
+    "verified": false,
+    "name": "Sadar Bazaar",
+    "area": "Central Raipur",
+    "kind": "Market area",
+    "summary": "A busy central market area. Details on what it is best for are being collected.",
+    "tags": [
+      "market"
+    ]
+  },
+  {
+    "id": "pandri-market",
+    "category": "shopping",
+    "verified": false,
+    "name": "Pandri Market",
+    "area": "Pandri",
+    "kind": "Market area",
+    "summary": "A large market area near the old bus stand. Details on what it is best for are being collected.",
+    "tags": [
+      "market"
+    ]
+  },
+  {
+    "id": "dish-chila",
+    "category": "street-food",
+    "verified": false,
+    "name": "Chila",
+    "area": "Across Raipur",
+    "kind": "Dish to look for",
+    "summary": "A savoury pancake made from rice-flour batter, a classic Chhattisgarhi breakfast usually eaten with chutney.",
+    "tags": [
+      "breakfast",
+      "Chhattisgarhi"
+    ]
+  },
+  {
+    "id": "dish-farra",
+    "category": "street-food",
+    "verified": false,
+    "name": "Farra",
+    "area": "Across Raipur",
+    "kind": "Dish to look for",
+    "summary": "Rice-flour dumplings, typically steamed and then tempered with spices.",
+    "tags": [
+      "snack",
+      "Chhattisgarhi"
+    ]
+  },
+  {
+    "id": "dish-muthiya",
+    "category": "street-food",
+    "verified": false,
+    "name": "Muthiya",
+    "area": "Across Raipur",
+    "kind": "Dish to look for",
+    "summary": "Steamed rice-flour dumplings, a homestyle Chhattisgarhi snack.",
+    "tags": [
+      "snack",
+      "Chhattisgarhi"
+    ]
+  },
+  {
+    "id": "dish-dehrori",
+    "category": "street-food",
+    "verified": false,
+    "name": "Dehrori",
+    "area": "Across Raipur",
+    "kind": "Dish to look for",
+    "summary": "A traditional Chhattisgarhi sweet made from rice and sugar syrup.",
+    "tags": [
+      "sweet",
+      "Chhattisgarhi"
+    ]
+  },
+  {
+    "id": "aiims-raipur",
+    "category": "hospitals",
+    "verified": false,
+    "name": "AIIMS Raipur",
+    "area": "Tatibandh",
+    "kind": "Government hospital",
+    "summary": "All India Institute of Medical Sciences, a medical college and teaching hospital.",
+    "tags": [
+      "government",
+      "teaching hospital"
+    ]
+  },
+  {
+    "id": "ambedkar-hospital",
+    "category": "hospitals",
+    "verified": false,
+    "name": "Dr. B.R. Ambedkar Memorial Hospital",
+    "area": "Raipur city",
+    "kind": "Government hospital",
+    "summary": "A large government hospital in the city, linked to the Pt. J.N.M. Medical College.",
+    "tags": [
+      "government"
+    ]
+  },
+  {
+    "id": "dks-hospital",
+    "category": "hospitals",
+    "verified": false,
+    "name": "Dau Kalyan Singh Hospital",
+    "area": "Shastri Chowk",
+    "kind": "Government hospital",
+    "summary": "A hospital near Shastri Chowk, close to the Town Hall.",
+    "tags": [
+      "government"
+    ],
+    "source": "Raipur district website",
+    "sourceUrl": "https://raipur.gov.in/places-to-visit/"
+  },
+  {
+    "id": "rajkumar-college",
+    "category": "schools",
+    "verified": true,
+    "name": "Rajkumar College",
+    "area": "Raipur city",
+    "kind": "Boarding school",
+    "summary": "A historic boarding school founded in 1882 and moved to Raipur in 1894, known for its gardens, arches and architecture.",
+    "tags": [
+      "heritage",
+      "boarding"
+    ],
+    "source": "Raipur district website",
+    "sourceUrl": "https://raipur.gov.in/places-to-visit/"
+  },
+  {
+    "id": "nit-raipur",
+    "category": "colleges",
+    "verified": false,
+    "name": "NIT Raipur",
+    "area": "G.E. Road",
+    "kind": "Engineering institute",
+    "summary": "National Institute of Technology, Raipur.",
+    "tags": [
+      "engineering",
+      "national institute"
+    ]
+  },
+  {
+    "id": "iim-raipur",
+    "category": "colleges",
+    "verified": false,
+    "name": "IIM Raipur",
+    "area": "Naya Raipur",
+    "kind": "Management institute",
+    "summary": "Indian Institute of Management, Raipur.",
+    "tags": [
+      "management",
+      "national institute"
+    ]
+  },
+  {
+    "id": "iiit-naya-raipur",
+    "category": "colleges",
+    "verified": false,
+    "name": "IIIT Naya Raipur",
+    "area": "Naya Raipur",
+    "kind": "Technology institute",
+    "summary": "Dr. Shyama Prasad Mukherjee International Institute of Information Technology, Naya Raipur.",
+    "tags": [
+      "IT",
+      "national institute"
+    ]
+  },
+  {
+    "id": "prsu",
+    "category": "colleges",
+    "verified": false,
+    "name": "Pt. Ravishankar Shukla University",
+    "area": "Amanaka",
+    "kind": "State university",
+    "summary": "A state university with many departments and affiliated colleges.",
+    "tags": [
+      "university"
+    ]
+  },
+  {
+    "id": "hnlu",
+    "category": "colleges",
+    "verified": false,
+    "name": "Hidayatullah National Law University",
+    "area": "Naya Raipur",
+    "kind": "Law university",
+    "summary": "A national law university in Naya Raipur.",
+    "tags": [
+      "law",
+      "national institute"
+    ]
+  },
+  {
+    "id": "sample-cafe-a",
+    "category": "cafes",
+    "sample": true,
+    "name": "Sample Cafe A",
+    "area": "Area A",
+    "kind": "Cafe",
+    "summary": "A placeholder listing that shows how a cafe entry will look: a short verdict, the area, price range and a map link.",
+    "tags": [
+      "coffee",
+      "work-friendly"
+    ]
+  },
+  {
+    "id": "sample-cafe-b",
+    "category": "cafes",
+    "sample": true,
+    "name": "Sample Cafe B",
+    "area": "Area B",
+    "kind": "Cafe",
+    "summary": "Another placeholder. Real cafes will be added after the address and timings are checked.",
+    "tags": [
+      "desserts",
+      "evening"
+    ]
+  },
+  {
+    "id": "sample-cafe-c",
+    "category": "cafes",
+    "sample": true,
+    "sponsored": true,
+    "name": "Sample Sponsored Cafe",
+    "area": "Area A",
+    "kind": "Cafe",
+    "summary": "This is how a paid, clearly labelled featured listing will look. Sponsored entries never pose as independent rankings.",
+    "tags": [
+      "featured"
+    ]
+  }
+]

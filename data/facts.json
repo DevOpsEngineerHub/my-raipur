@@ -1,0 +1,12 @@
+{
+  "_help": "Each fact: fact, source, sourceUrl. Add a source for every claim. Facts without a source show 'Source to be added'.",
+  "items": [
+    { "fact": "In 1854 the British made Raipur the headquarters of the new Chhattisgarh commissionery.", "source": "Raipur district website", "sourceUrl": "https://raipur.gov.in/history/" },
+    { "fact": "The Hatkeshwar Mahadev temple on the Kharun river dates to 1402.", "source": "Raipur district website", "sourceUrl": "https://raipur.gov.in/history/" },
+    { "fact": "Vivekananda Sarovar, also called Budha Talaab, is described as the city's oldest lake and has a 37 ft statue of Swami Vivekananda.", "source": "Raipur district website", "sourceUrl": "https://raipur.gov.in/places-to-visit/" },
+    { "fact": "The Town Hall was built between 1887 and 1889 and was once called the Victoria Jubilee Hall.", "source": "Raipur district website", "sourceUrl": "https://raipur.gov.in/places-to-visit/" },
+    { "fact": "Rajkumar College was founded in 1882 and moved to Raipur in 1894.", "source": "Raipur district website", "sourceUrl": "https://raipur.gov.in/places-to-visit/" },
+    { "fact": "The Dudhadhari temple is a 17th-century Vaishnav temple known for Ramayana-themed sculptures.", "source": "Raipur district website", "sourceUrl": "https://raipur.gov.in/places-to-visit/" },
+    { "fact": "Chhattisgarh became a separate state on 1 November 2000, and Raipur is its capital." }
+  ]
+}

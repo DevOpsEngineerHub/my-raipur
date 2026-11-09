@@ -1,0 +1,12 @@
+{
+  "name": "My Raipur",
+  "short_name": "My Raipur",
+  "description": "A digital home for Raipur",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f4fa",
+  "theme_color": "#121a44",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
